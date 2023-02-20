@@ -1,0 +1,132 @@
+.body{
+    margin: 0;
+    padding: 0;
+    height: 0;
+    width: 0;
+}
+.main{
+    width: 1000px;
+    margin: auto;
+}
+.first{
+    width: 1000px;
+    display: flex;
+}
+
+
+.first_left_top{
+    width: 300px;
+    height: 200px;
+    background: gray;
+}
+.first_left_bottom{
+    width: 300px;
+    height: 100px;
+    background: red;
+}
+.first_middle{
+    width: 150px;
+    height: 300px;
+    background: rgb(218, 122, 119);
+}
+.first_right_top{
+    width: 550px;
+    height: 100px;
+    background: rgb(218, 140, 23);
+}
+.first_right_middle{
+    width: 550px;
+    height: 100px;
+    background: rgb(22, 105, 11);
+}
+.first_right_bottom{
+    width: 550px;
+    height: 100px;
+    background: rgb(100, 13, 150);
+}
+.second{
+    width: 1000px;
+    display: flex;
+}
+.second_one{
+    height: 100px;
+    width: 150px;
+    background:skyblue;
+}
+.second_two{
+    height: 100px;
+    width: 200px;
+    background:rgb(18, 16, 158);
+}
+.second_three{
+    height: 100px;
+    width: 350px;
+    background:rgb(12, 13, 14);
+}
+.second_four{
+    height: 100px;
+    width: 200px;
+    background:rgb(90, 89, 87);
+}
+.second_five{
+    height: 100px;
+    width: 100px;
+    background:skyblue;
+}
+.third{
+    width: 1000px;
+    display: flex;
+
+}
+.third_left_top{
+    width: 300px;
+    height: 100px;
+    background: rgb(247, 244, 244);
+}
+.third_left_middle{
+    width: 300px;
+    height: 100px;
+    background: rgb(28, 18, 75);
+}
+.third_left_bottom{
+    width: 300px;
+    height: 100px;
+    background: rgb(236, 231, 231);
+}
+.third_middle{
+    width: 250px;
+    height: 300px;
+    background: rgb(155, 42, 42);
+}
+.third_right_top{
+    width: 450px;
+    height: 100px;
+    background: rgb(200, 218, 38);
+}
+
+.third_right_bottom{
+    width: 450px;
+    height: 200px;
+    background: rgb(18, 95, 11);
+}
+.fourth{
+    width: 1000px;
+    display: flex;
+}
+.fourth_left{
+    width: 700px;
+    height: 100px;
+    background: rgb(41, 169, 219);
+}
+.fourth_right{
+    width: 300px;
+    height: 100px;
+    background: rgb(173, 19, 39);
+}
+
+
+
+
+
+
+
