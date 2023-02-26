@@ -1,2 +1,2 @@
-# struckture_table
+# structure_table
 this work modify my maping skill(html,css)
