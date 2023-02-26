@@ -80,17 +80,17 @@
 }
 .third_left_top{
     width: 300px;
-    height: 100px;
+    height: 115px;
     background: rgb(247, 244, 244);
 }
 .third_left_middle{
     width: 300px;
-    height: 100px;
+    height: 70px;
     background: rgb(28, 18, 75);
 }
 .third_left_bottom{
     width: 300px;
-    height: 100px;
+    height: 115px;
     background: rgb(236, 231, 231);
 }
 .third_middle{
@@ -115,12 +115,12 @@
 }
 .fourth_left{
     width: 700px;
-    height: 100px;
+    height: 40px;
     background: rgb(41, 169, 219);
 }
 .fourth_right{
     width: 300px;
-    height: 100px;
+    height: 40px;
     background: rgb(173, 19, 39);
 }
 
